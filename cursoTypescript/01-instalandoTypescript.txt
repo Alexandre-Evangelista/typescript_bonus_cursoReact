@@ -1,0 +1,5 @@
+npm init -y
+npm i typescript -D
+npx tsc index.ts cria raquivo igual ao que foi mandado porem em js
+npx tsc --init
+npx ts-node index.ts para rodar
